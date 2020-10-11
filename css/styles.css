@@ -627,6 +627,21 @@ Blog
 }
 /*
 =============== 
+Map
+===============
+*/
+.map-center {
+  display: flex;
+  justify-content: center;
+}
+.map-info {
+  margin-right: 5rem;
+}
+.map-iframe {
+  margin-left: 5rem;
+}
+/*
+=============== 
 Footer
 ===============
 */
